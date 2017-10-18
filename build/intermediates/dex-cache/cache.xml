@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\cb90731fcfd730840b507b101405975fba6a32ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fc0fa36fac3e79ae1f195047ef50c228c5652d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\5589ccf5a395f5978b829581b61bc952abdb20cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6cbfd3900d138f8628dcb8280b782159a9d35683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\f815de5351ca223558b2ffabc66d9879150a6a22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b38d971edf7917fe96af8ede23c70d3b85ee97a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\93f1c1c4bc324f3365bfadf6f073eb0bd7f9c92f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3c8234c0a3ffbbceb6cece64db899b2e65d6f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\5aa8860fb1479f4b776984dfa9a68faff24da906\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06d36a40ec6c0aaa33fd7b05a7d1ae5d312954b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fca2231ca7bdbb6cf4d3f29e004c10381aef7ec7">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a07ced3dd2b5b45dd8800d55a642b78e08f0d9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3d8910dce22f79ba18e57cca506ee40a0265ce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rynel\.android\build-cache\1d4b3f00327ff3802821025bb979d45cf0b3162f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="C:\Users\rynel\AndroidStudioProjects\AndroidPay\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_882675c3acdf5f75ddaeebf02088469d36b2b698\classes.dex" />
+    </item>
+
+</items>
